@@ -81,7 +81,7 @@ img {
 
 /* header */
 .hero {
-    background: url('../images/home/showcase.jpg') no-repeat center center/cover;
+    background: url('../images/main/showcase.jpg') no-repeat center center/cover;
     /* to cover all page */
     height: 100vh;
     position: relative;
